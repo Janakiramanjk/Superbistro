@@ -1,0 +1,139 @@
+BEGIN:VCALENDAR
+METHOD:REQUEST
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Eastern Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=1SU;BYMONTH=11
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=2SU;BYMONTH=3
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN=Abhilash:mailto:Abhilash@avasoft.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=thirupathi
+ kannan36@gmail.com:mailto:thirupathikannan36@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=kuruvagant
+ elahari1012@gmail.com:mailto:kuruvagantelahari1012@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Gokulprasa
+ th.100000@gmail.com:mailto:Gokulprasath.100000@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=janakirama
+ n1541@gmail.com:mailto:janakiraman1541@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=bkhemachan
+ daran@gmail.com:mailto:bkhemachandaran@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=lathakasth
+ uri2580@gmail.com:mailto:lathakasthuri2580@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=thejesvini
+ bs@gmail.com:mailto:thejesvinibs@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=subikshas2
+ 020@gmail.com:mailto:subikshas2020@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=1978sheepa
+ @gmail.com:mailto:1978sheepa@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=keerthikas
+ elvaraj630@gmail.com:mailto:keerthikaselvaraj630@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=dhanrajb63
+ 7@gmail.com:mailto:dhanrajb637@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=subramania
+ nabhinav2000@gmail.com:mailto:subramanianabhinav2000@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=vasanth102
+ 230@gmail.com:mailto:vasanth102230@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=sanjaignan
+ asambandan47@gmail.com:mailto:sanjaignanasambandan47@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=rvsaini810
+ 7@gmail.com:mailto:rvsaini8107@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=saravanans
+ hanmugarajwork@gmail.com:mailto:saravananshanmugarajwork@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=aravindara
+ vindan815@gmail.com:mailto:aravindaravindan815@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=12aathiaat
+ hi@gmail.com:mailto:12aathiaathi@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=www.mmk105
+ @gmail.com:mailto:www.mmk105@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=balaji1805
+ 23@gmail.com:mailto:balaji180523@gmail.com
+DESCRIPTION;LANGUAGE=en-US:Dear Candidates\,\n\n\nPlease Join the scheduled
+  Group Discussion on 20-06-2024 (Thursday) at 07:00 PM IST using the meeti
+ ng link below.\n\n\n______________________________________________________
+ __________________________\nMicrosoft Teams Need help?<https://aka.ms/Join
+ TeamsMeeting?omkt=en-US>\nJoin the meeting now<https://teams.microsoft.com
+ /l/meetup-join/19%3ameeting_Yjc5YWJjODktMDQ3OS00NzYxLThlYjgtNTM3MzA4MDQ2Yz
+ Fi%40thread.v2/0?context=%7b%22Tid%22%3a%22716f83c3-7abd-42a1-86d2-e0207f4
+ aa981%22%2c%22Oid%22%3a%22ef9c9fed-8687-44c0-b470-07268020445c%22%7d>\nMee
+ ting ID: 434 441 333 677\nPasscode: Dok7As\n______________________________
+ __\nFor organizers: Meeting options<https://teams.microsoft.com/meetingOpt
+ ions/?organizerId=ef9c9fed-8687-44c0-b470-07268020445c&tenantId=716f83c3-7
+ abd-42a1-86d2-e0207f4aa981&threadId=19_meeting_Yjc5YWJjODktMDQ3OS00NzYxLTh
+ lYjgtNTM3MzA4MDQ2YzFi@thread.v2&messageId=0&language=en-US>\n_____________
+ ___________________________________________________________________\nThe c
+ ontents of this e-mail and any attachment(s) are confidential and intended
+  for the named recipient(s) only. E-mail transmission is not guaranteed to
+  be secure or error-free as information could be intercepted\, corrupted\,
+  lost\, destroyed\, arrive late or incomplete\, or may contain viruses in 
+ transmission. The email and its contents (with or without referred errors)
+  shall therefore not attach any liability on the originator or AVASOFT or 
+ its affiliates. Views or opinions\, if any\, presented in this email are s
+ olely those of the author and may not necessarily reflect the views or opi
+ nions of AVASOFT or its affiliates. Any form of reproduction\, disseminati
+ on\, copying\, disclosure\, modification\, distribution and / or publicati
+ on of this message without the prior written consent of authorized represe
+ ntative of AVASOFT is strictly prohibited. If you have received this email
+  in error please delete it and notify the sender immediately. Before openi
+ ng any email and/or attachments\, please check them for viruses and other 
+ defects.\n
+UID:040000008200E00074C5B7101A82E008000000006A1087DB6CC2DA01000000000000000
+ 010000000F77BD82310D4A04AA1B68203B74890DE
+SUMMARY;LANGUAGE=en-US:AVASOFT / GD / Trainee Engineer - Batch 2
+DTSTART;TZID=Eastern Standard Time:20240620T093000
+DTEND;TZID=Eastern Standard Time:20240620T100000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20240619T171937Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION;LANGUAGE=en-US:Microsoft Teams Meeting
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-OWNERAPPTID:2122751338
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-ONLINEMEETINGINFORMATION:{"OnlineMeetingChannelId":null\,"Onlin
+ eMeetingProvider":3}
+X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_Yjc5YWJjODktMDQ3OS00NzYxLThlYjgtNTM3MzA4MDQ2YzFi%40thread.v2/
+ 0?context=%7b%22Tid%22%3a%22716f83c3-7abd-42a1-86d2-e0207f4aa981%22%2c%22O
+ id%22%3a%22ef9c9fed-8687-44c0-b470-07268020445c%22%7d
+X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://api.scheduler.teams.microsof
+ t.com/teams/716f83c3-7abd-42a1-86d2-e0207f4aa981/ef9c9fed-8687-44c0-b470-0
+ 7268020445c/19_meeting_Yjc5YWJjODktMDQ3OS00NzYxLThlYjgtNTM3MzA4MDQ2YzFi@th
+ read.v2/0
+X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_Yjc5YWJjODktMDQ3OS00NzY
+ xLThlYjgtNTM3MzA4MDQ2YzFi@thread.v2"\,"rid":0\,"mid":0\,"uid":null\,"priva
+ te":true\,"type":0}
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:TRUE
+X-MICROSOFT-LOCATIONDISPLAYNAME:Microsoft Teams Meeting
+X-MICROSOFT-LOCATIONSOURCE:None
+X-MICROSOFT-LOCATIONS:[{"DisplayName":"Microsoft Teams Meeting"\,"LocationA
+ nnotation":""\,"LocationUri":""\,"LocationStreet":""\,"LocationCity":""\,"
+ LocationState":""\,"LocationCountry":""\,"LocationPostalCode":""\,"Locatio
+ nFullAddress":""}]
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR

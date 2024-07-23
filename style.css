@@ -1,0 +1,191 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.sb-header{
+     width: 100%;
+     padding: 5px 40px;
+     background-color: rgb(249, 242, 231);
+     display: flex;
+     justify-content: space-between;
+     height: 100px;
+     position: fixed;
+}
+.sb-header .sb-logo-wrapper{
+     width:  90px;
+     height: 90px;
+     padding: 10px 10px;
+}
+.sb-header .sb-logo-wrapper img{
+        width: 100%;
+        height: 100%;
+}
+.sb-header .sb-list-wrapper{
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+
+.sb-header .sb-list-wrapper li{
+    font-size: 60px;
+    font-weight: bold;
+    color: rgb(131, 97, 3);
+}
+
+.sb-header .sb-list-wrapper a{
+    color: rgb(0, 0, 0);
+}
+.sb-list-wrapper img{
+    height: 65px;
+    width: 65px;
+}
+.sb-header .sb-login-wrapper{
+    display: flex;
+    align-items:center;
+    gap: 30px;
+
+}
+
+.sb-header .sb-login-wrapper  .sb-icons{
+      width: 40px;
+      height: 40px;
+}
+
+.sb-header .sb-login-wrapper  .sb-icons img{
+    width: 100%;
+    height: 100%;
+}
+.sb-banner-container{
+    background-image: url(./assests/coffe1.jpg);
+    width: 100%;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size:cover ;
+    background-position: center;
+    align-items: center;
+    display: flex;
+}
+.sb-banner-container h1{
+    font-size: xx-large;
+    font-weight: bolder;
+    font-size: 60px;
+    color: rgb(250, 249, 249);
+    padding: 0px 190px;
+}
+.sb-banner-container1{
+    width: 100%;
+    padding: 0px;
+    background-color: rgb(255, 255, 255);
+}
+.sb-banner-container1 h1{
+     padding-top: 50px;
+     text-align: center;
+     font-size: 40px;
+     color: rgb(173, 101, 29);
+}
+.sb-banner-container1 h2{
+    padding: 20px 22%;
+    font-size: 20px;
+    text-align: center;
+    /* max-width: 1000px ; */
+    color: rgb(106, 77, 25);
+
+}
+.sb-banner-container1a {
+    display: flex;
+    justify-content: space-evenly; 
+    padding: 90px;
+    list-style: none;
+}
+.sb-banner-container1a li .sb-images {
+    height: 200px;
+    padding: 20px;
+}
+@media(max-width: 991px){
+    .sb-banner-container1a li .sb-images {
+        height: 140px;
+        padding: 30px;
+    }
+}
+@media(max-width: 768px){
+    .sb-banner-container1 h1 {
+        text-align: left;
+        padding: 20px;
+    }
+    .sb-banner-container1a{
+        flex-direction: column;
+        align-items: center;
+    }
+    .sb-banner-container1a li .sb-images {
+        height: 140px;
+    }
+}
+.sb-banner-container2{
+    padding: 10px;
+    background-color: rgb(248, 237, 237);
+    width: 100%;
+}
+.sb-banner-container2 h1{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 40px;
+    color: rgb(173, 101, 29);
+}
+.sb-banner-container2 .sb-banner-container2a{
+    display: flex;
+    padding: 70px 20px;
+    list-style: none;
+    gap: 20px;
+    
+}
+.sb-banner-container2 .sb-banner-container2a li:first-child{
+    flex: 1;
+}
+.sb-banner-container2 .sb-banner-container2a li:nth-child(){
+    flex: 1;
+}
+.sb-banner-container2 .sb-banner-container2a li div{
+    height: 600px;
+}
+.sb-banner-container2 .sb-banner-container2a li img{
+    height: 100%;
+    width: 100%;
+    border-radius: 40px;
+}
+.sb-banner-container-menu {
+    display: grid;
+    grid-template-columns: repeat(3, 3fr);
+    gap: 0px;
+    padding: 30px;
+    background-color: rgb(235, 235, 235);
+}
+
+.sb-banner-container-menu h1 {
+    padding-top: 50px ;
+    font-size: 50px;
+    color: chocolate;
+    text-align:center;
+    width: 280%;
+}
+
+.sb-banner-container-menu img {
+    width: 80%;
+    height: 70%;
+    object-fit: cover;
+    border-radius: 20px;
+}
+.sb-footer-bottom{
+    color: rgb(72, 62, 47);
+    text-align: center;
+    background-color: rgb(202, 170, 139);
+    padding: 50px;
+    font-size: 20px;
+}
+
+.sb-footer-bottom a {
+    text-decoration: none !important; 
+
+}
+
+
